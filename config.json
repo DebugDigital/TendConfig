@@ -1,8 +1,4 @@
-[
-  {
-        "id": 1,
-        "name": "LEVEL 1",
-        "description": "Level 1 description",
+{
         "weeks": [
           {
             "id": 1,
@@ -404,5 +400,4 @@
             ]
           }
         ]
-      }
-]
+}
